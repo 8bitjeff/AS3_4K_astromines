@@ -1,0 +1,10 @@
+Mine-X 4K
+
+The Game is in the /bin folder
+
+Mine-X 4K is an Asteroids / Geometry Wars variant. I know, not too original, but I attempted to squeeze as much in as possible. The game is built completely in Actionscript with no external assets. It employs a completely blit game screen and pixel perfect collision detection.   
+
+Instructions: Zoom around the 360 degree scrolling play field, Asteroids style, and blast all of the fast moving mines in each sector. Use the radar screen to see the entire sector. You can even use it to blast mines off screen. All of the enemy, missiles and particles are also displayed on the radar. You only get one ship, so be very careful.
+
+Keys: Arrows to move (rotate left and right and thrust with up) and space bar fires.
+
